@@ -11,9 +11,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My name is Emma Buttars. I am studying to be a Spanish and Computer Science teacher at Weber State. I used to be Elementary Ed, but while I love the kids... Elementary staff tend to be... a little wacky. 
+
+# Fun Facts About Me
+
+* I foster 4 - 12 week old kittens during summers
+* I graduated high school at the age of 16
+* I can say the entire Pledge of Allegiance in Spanish
+* I am surprisingly good at video editing
 
 ## Header 2
 
