@@ -5,7 +5,7 @@ title: "My Home Page"
 
 This is my website
 
-[Link to another page](./another-page.html).
+[Link to another page](./about).
 
 There should be whitespace between paragraphs.
 
