@@ -7,7 +7,7 @@ This is my website
 
 [Link to another page](./about).
 
-There should be whitespace between paragraphs.
+Is my page showing on this page or this page
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
