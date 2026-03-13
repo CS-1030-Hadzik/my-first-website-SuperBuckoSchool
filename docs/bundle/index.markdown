@@ -5,11 +5,8 @@ title: "My Home Page"
 
 This is my website
 
-[Link to another page](./about).
-
-Is my page showing on this page or this page
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Webkinz](https://www.webkinz.com/).
+[Extra](about)
 
 # About Me
 
@@ -22,11 +19,15 @@ My name is Emma Buttars. I am studying to be a Spanish and Computer Science teac
 * I can say the entire Pledge of Allegiance in Spanish
 * I am surprisingly good at video editing
 
-## Header 2
+## More random stuff about me because I can't think of
+## what to put in a table
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+|   Hobbies    |  Favorite Foods   | Favorite Uni Classes |
+|:-------------|:------------------|:---------------------|
+| Video Games  | good swedish fish | Math 2015            |
+| Singing      | good and plenty   | Econ 1740            |
+| Reading      | good `oreos`      | Educ 3130            |
+| Rollerskating| good `zoute` drop | Engl 3300            |
 
 ### Header 3
 
